@@ -13,6 +13,6 @@ Login: lukas.stankus@hotmail.com
 Password: miami100
 
 Unity/funtional testing
-1. Tests can easily be found under ./tests.
+1. Unit tests can easily be found under ./tests.
 2. CSV exporter test. Run "./bin/phpunit tests/CsvServiceTest.php"
 3. Login form test. Run "./bin/phpunit tests/UserLoginTest.php"
